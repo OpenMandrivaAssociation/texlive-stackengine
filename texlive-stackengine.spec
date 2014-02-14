@@ -1,12 +1,12 @@
-# revision 32166
+# revision 32593
 # category Package
 # catalog-ctan /macros/latex/contrib/stackengine
-# catalog-date 2013-11-14 22:21:37 +0100
+# catalog-date 2014-01-06 14:33:54 +0100
 # catalog-license lppl1.3
-# catalog-version 3.23
+# catalog-version 3.24
 Name:		texlive-stackengine
-Version:	3.23
-Release:	5
+Version:	3.24
+Release:	1
 Summary:	Highly customised stacking of objects, insets, baseline changes, etc
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/stackengine
