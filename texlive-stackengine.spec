@@ -5,8 +5,8 @@
 # catalog-license lppl1.3
 # catalog-version 3.24
 Name:		texlive-stackengine
-Version:	3.24
-Release:	5
+Version:	4.01
+Release:	1
 Summary:	Highly customised stacking of objects, insets, baseline changes, etc
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/stackengine
