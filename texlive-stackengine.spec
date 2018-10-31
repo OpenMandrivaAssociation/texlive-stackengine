@@ -6,7 +6,7 @@
 # catalog-version 3.24
 Name:		texlive-stackengine
 Version:	4.01
-Release:	1
+Release:	2
 Summary:	Highly customised stacking of objects, insets, baseline changes, etc
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/stackengine
