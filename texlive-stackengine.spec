@@ -1,6 +1,6 @@
 Name:		texlive-stackengine
 Version:	60019
-Release:	1
+Release:	2
 Summary:	Highly customised stacking of objects, insets, baseline changes, etc
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/stackengine
