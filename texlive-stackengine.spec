@@ -3,7 +3,7 @@ Version:	60019
 Release:	2
 Summary:	Highly customised stacking of objects, insets, baseline changes, etc
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/stackengine
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/stackengine
 License:	LPPL1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/stackengine.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/stackengine.doc.r%{version}.tar.xz
